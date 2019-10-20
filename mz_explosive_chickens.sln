@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mz_explosive_chickens", "mz_explosive_chickens\mz_explosive_chickens.csproj", "{ED07AC0E-F982-4E8F-9CDB-A514B0CB0E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED07AC0E-F982-4E8F-9CDB-A514B0CB0E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED07AC0E-F982-4E8F-9CDB-A514B0CB0E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED07AC0E-F982-4E8F-9CDB-A514B0CB0E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED07AC0E-F982-4E8F-9CDB-A514B0CB0E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198CBCF0-FC6C-47EC-BF46-EB1E37A0BD77}
+	EndGlobalSection
+EndGlobal
